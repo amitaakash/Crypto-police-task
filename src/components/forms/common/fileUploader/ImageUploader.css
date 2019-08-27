@@ -1,0 +1,14 @@
+.fileUploader,
+.fileUploaderRequired {
+  text-align: center;
+  border: 1px solid #d8d8d8;
+  padding: 2%;
+}
+.fileUploaderRequired {
+  border: 1px solid red;
+}
+.fileUploader i,
+.fileUploaderRequired i {
+  font-size: 3.2rem;
+  margin-top: 2%;
+}
